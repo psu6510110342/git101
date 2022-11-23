@@ -1,20 +1,20 @@
 {
   "name": "git101",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/psu6510110342/git101.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/psu6510110342/git101/issues"
   },
-  "homepage": "https://github.com/psu6510110342/git101#readme",
-  "description": ""
+  "homepage": "https://github.com/psu6510110342/git101#readme"
 }
